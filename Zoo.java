@@ -14,6 +14,7 @@ public class Zoo
     {
         theZoo = new Pet[40];
         theZoo[0] = new Pet("boring pet");
+        theZoo[3] = new Bird("Parry");
     }
 
     public void soundOff()
